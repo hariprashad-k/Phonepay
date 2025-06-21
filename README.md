@@ -1,1 +1,1 @@
-# Phonepay
+# Phonepay project with real data taken fro  git and imported into jupiter notebook and created a different dataframe then connected mysql and python connector and created a table in my databse and done the business 5 different case studies then in VS code installed needed package and created a streamlit application and then also created a dashboard on Poer BI desktop for 5 different case studies.
